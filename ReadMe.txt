@@ -1,0 +1,1 @@
+This repositry is created by me, Zaw Min Tun (mg.zawmintun@gmail.com). I use this repositry to keep the testing files while learning Javascript, so some contents are what I copied from other web resources. Feel free to refer to the information here. To use these commercially, seek the proper permission accordingly.
